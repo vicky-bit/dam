@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Adivina el número secreto</title>
+        <title>Juego de master</title>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="stylesheet.css">
     </head>
