@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="stylesheet.css">
     </head>
     <body>
-        <h1>Adivina el número secreto</h1>
+        <h1>Juego desde Rodri</h1>
         <p></p>
         <div class="capaform">
             <form class="form-font" action="numJugado.php" method="POST">
